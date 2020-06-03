@@ -2,7 +2,7 @@ To build and run
 
 Install dependencies
 ```
-go get .\...
+go mod download
 ```
 
 Build
